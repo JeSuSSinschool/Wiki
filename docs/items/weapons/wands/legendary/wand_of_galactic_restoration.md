@@ -11,7 +11,7 @@ description: "The Wand of Galactic Restoration"
 
 **Alien Restoration: When below 30% Mana, your mana potions are 1.5x more effective.**
 
-Damage: 180-200
+Damage: 190-210
 
 Shots: 2
 
@@ -22,6 +22,10 @@ Range: 9
 Shots pass through obstacles
 
     +100 Maximum MP
+
+    +6 Wisdom
+
+    +4 Vitality
 
 **Drops from the Regolith (Galatic Plateau 2nd)**
 
