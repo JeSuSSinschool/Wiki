@@ -11,7 +11,7 @@ description: "The Zol Trident"
 
 **Ensured Corruption: Hitting an enemy 30 times applies Corruption for 10 Seconds. Enemies afflicted by Corrupted have debuff duratioms increased by 1.2x and dewbuff potency ( if applicable) increased by 10%**
 
-Damage: 300-333
+Damage: 315-365
 
 Shots: 3
 
