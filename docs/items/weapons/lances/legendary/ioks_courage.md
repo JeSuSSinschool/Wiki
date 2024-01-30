@@ -9,13 +9,13 @@ description: "Iok's Courage"
 
 <i>The true source of Iok's determination.</i>
 
-**Determination: Upon your protection being drained gain berserk and immunity to debuffs for 3 seconds.**
+**Determination: Upon your protection being drained gain Bravery and immunity to debuffs for 2 seconds.**
 
-Damage: 420-480
+Damage: 400-480
 
 Shots: 2
 
-Rate of Fire: 75%
+Rate of Fire: 80%
 
 Range: 5.0
 
