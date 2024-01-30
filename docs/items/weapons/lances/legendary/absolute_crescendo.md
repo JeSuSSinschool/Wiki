@@ -10,7 +10,7 @@ description: "Absolute Crescendo"
 
 <i>The complete blade of the celestial envoy, rumours say the shattered form became complete after the herald travelled past the stars.</i>
 
-**Crescendo: Hitting a shot with this item gives you one Crescendo stack (+1% damage, +10% shot sound volume), up to a max of 10. Lose 2 stacks per shot missed starting at 3 shots missed.**
+**Crescendo: Hitting a shot with this item gives you one Crescendo stack (+1% damage, +10% shot sound volume), up to a max of 12. Lose 2 stacks per shot missed starting at 3 shots missed.**
 
 Damage: 120-135
 
